@@ -1,0 +1,131 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "country": "Korea",
+      "slug": "korea",
+      "language": "ko-KR",
+      "label": "대한민국 공식몰",
+      "labelEn": "Shop Korea",
+      "shopUrl": "https://www.cellreborn.co.kr",
+      "channels": [
+        {
+          "label": "Korea Official Mall",
+          "url": "https://www.cellreborn.co.kr",
+          "type": "official-mall"
+        }
+      ],
+      "b2bContactUrl": "/b2b/inquiry?country=korea",
+      "status": "active",
+      "managedBy": "YJBN HQ",
+      "note": ""
+    },
+    {
+      "code": "US",
+      "country": "USA",
+      "slug": "usa",
+      "language": "en-US",
+      "label": "USA Official Store",
+      "labelEn": "Shop USA",
+      "shopUrl": "https://www.cellreborn.us",
+      "channels": [
+        {
+          "label": "USA Official Store",
+          "url": "https://www.cellreborn.us",
+          "type": "official-mall"
+        },
+        {
+          "label": "Amazon Store",
+          "url": "",
+          "type": "marketplace"
+        }
+      ],
+      "b2bContactUrl": "/b2b/inquiry?country=usa",
+      "status": "active",
+      "managedBy": "YJBN HQ",
+      "note": "Amazon store link reserved for future use."
+    },
+    {
+      "code": "CN",
+      "country": "China",
+      "slug": "china",
+      "language": "zh-CN",
+      "label": "China Official Store",
+      "labelEn": "Shop China",
+      "shopUrl": "https://www.cellreborn.cn",
+      "channels": [
+        {
+          "label": "China Official Store",
+          "url": "https://www.cellreborn.cn",
+          "type": "official-mall"
+        },
+        {
+          "label": "Taobao Official Store",
+          "url": "",
+          "type": "marketplace"
+        },
+        {
+          "label": "Tmall Global",
+          "url": "",
+          "type": "marketplace"
+        },
+        {
+          "label": "JD Official Store",
+          "url": "",
+          "type": "marketplace"
+        },
+        {
+          "label": "Xiaohongshu Store",
+          "url": "",
+          "type": "marketplace"
+        }
+      ],
+      "b2bContactUrl": "/b2b/inquiry?country=china",
+      "status": "active",
+      "managedBy": "CELLREBORN / Authorized Distributor",
+      "note": "China shop link may change depending on distributor operation."
+    },
+    {
+      "code": "JP",
+      "country": "Japan",
+      "slug": "japan",
+      "language": "ja-JP",
+      "label": "Japan Official Store",
+      "labelEn": "Shop Japan",
+      "shopUrl": "https://www.cellreborn.jp",
+      "channels": [
+        {
+          "label": "Japan Official Store",
+          "url": "https://www.cellreborn.jp",
+          "type": "official-mall"
+        }
+      ],
+      "b2bContactUrl": "/b2b/inquiry?country=japan",
+      "status": "active",
+      "managedBy": "YJBN HQ",
+      "note": ""
+    },
+    {
+      "code": "GLOBAL",
+      "country": "Global / English",
+      "slug": "global",
+      "language": "en",
+      "label": "Global Brand Hub",
+      "labelEn": "Global (EN)",
+      "shopUrl": "https://www.cellreborn.com",
+      "channels": [
+        {
+          "label": "Global Brand Hub",
+          "url": "https://www.cellreborn.com",
+          "type": "hub"
+        }
+      ],
+      "b2bContactUrl": "/b2b/inquiry",
+      "status": "active",
+      "managedBy": "YJBN HQ",
+      "note": "Default hub; routes users to country stores."
+    }
+  ],
+  "lastUpdated": "2026-06-28",
+  "updatedBy": "admin"
+}
